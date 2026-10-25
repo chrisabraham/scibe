@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>My Name is Scibe</title>
+<link>https://scibe.org/</link>
+<atom:link href="https://scibe.org/podcast.xml" rel="self" type="application/rss+xml"/>
+<description>A collaborative hyperfiction written simultaneously on ARTS WIRE and on The WELL, begun August 17, 1994, while Judy Malloy lay in bed in Tempe, Arizona recovering from a serious accident. Other writers added words about the details of their lives, providing windows on the world for “scibe”. This feed carries the preservation edition’s readings: the title page and all sixty-seven lexias, each read in the voice cast for its writer.</description>
+<language>en</language>
+<copyright>© 1994 Judy Malloy, Tom Igoe, Chris Abraham, Tim Collins, Anna Couey, Valerie Gardiner, Joseph Wilson, Doug Cohen</copyright>
+<itunes:author>Judy Malloy, Tom Igoe, Chris Abraham, Tim Collins, Anna Couey, Valerie Gardiner, Joseph Wilson, Doug Cohen</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+<itunes:category text="Arts"><itunes:category text="Books"/></itunes:category>
+<itunes:category text="Arts"><itunes:category text="Literature"/></itunes:category>
+<itunes:owner><itunes:name>Chris Abraham</itunes:name><itunes:email>cabraham@gmail.com</itunes:email></itunes:owner>
+<itunes:image href="https://scibe.org/scibe.gif"/>
+<item>
+<title>Title Page — Judy Malloy</title>
+<description>Name is Scibe, by, in order of appearance: Judy Malloy. Tom Igoe. Chris Abraham. Tim Collins. Anna Couey. Valerie Gardiner. Joseph Wilson. Douglas Cohen. between life and the net, I asked for Scribe This work — written simultaneously on ARTS WIRE and on The WELL — was begun on…</description>
+<link>https://scibe.org/index.html</link>
+<guid isPermaLink="true">https://scibe.org/index.html</guid>
+<pubDate>Wed, 17 Aug 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/titlepage.mp3" length="606181" type="audio/mpeg"/>
+<itunes:duration>1:15</itunes:duration>
+<itunes:author>Judy Malloy</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 1 — Judy Malloy</title>
+<description>My name is Scibe. I asked for Scribe, but the Wizards sent back Scibe. Perhaps there was already a Scribe on Lambda Moo. Or, perhaps I asked for Scibe. I don't spell very</description>
+<link>https://scibe.org/s1.html</link>
+<guid isPermaLink="true">https://scibe.org/s1.html</guid>
+<pubDate>Wed, 17 Aug 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s1.mp3" length="118117" type="audio/mpeg"/>
+<itunes:duration>0:14</itunes:duration>
+<itunes:author>Judy Malloy</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 2 — Judy Malloy</title>
+<description>My story is as true as any story that telnets from csl dot org to csn dot org to well dot sf dot ca dot us to tmn dot com to uc link dot berkeley dot edu to poniecki dot berkeley dot edu to parc dot xerox dot com. There are undoubtably other nodes where I can take my mind that I…</description>
+<link>https://scibe.org/s2.html</link>
+<guid isPermaLink="true">https://scibe.org/s2.html</guid>
+<pubDate>Wed, 17 Aug 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s2.mp3" length="329325" type="audio/mpeg"/>
+<itunes:duration>0:41</itunes:duration>
+<itunes:author>Judy Malloy</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 3 — Judy Malloy</title>
+<description>I am in an underground room — a basement where the inhabitants all wear dresses that look like aprons and the attendants all wear green uniforms. They will not let me leave. I have tried of course. I will tell you about that later. My belongings are beside my bed in a white…</description>
+<link>https://scibe.org/s3.html</link>
+<guid isPermaLink="true">https://scibe.org/s3.html</guid>
+<pubDate>Wed, 17 Aug 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s3.mp3" length="382317" type="audio/mpeg"/>
+<itunes:duration>0:47</itunes:duration>
+<itunes:author>Judy Malloy</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 4 — Judy Malloy</title>
+<description>There is a lot of food on my tray, but none of it looks edible. They will nag me if I do not</description>
+<link>https://scibe.org/s4.html</link>
+<guid isPermaLink="true">https://scibe.org/s4.html</guid>
+<pubDate>Wed, 17 Aug 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s4.mp3" length="70125" type="audio/mpeg"/>
+<itunes:duration>0:08</itunes:duration>
+<itunes:author>Judy Malloy</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 5 — Tom Igoe</title>
+<description>Judy, it's good to hear the mind is back in action, even if the body isn't yet. Hopes for an escape from therapyhell as soon as possible. Meanwhile, we'll do our best to keep this little escape hatch cozy for you. As I type, the cat I'm minding for a friend crawls over the…</description>
+<link>https://scibe.org/s5.html</link>
+<guid isPermaLink="true">https://scibe.org/s5.html</guid>
+<pubDate>Thu, 18 Aug 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s5.mp3" length="621157" type="audio/mpeg"/>
+<itunes:duration>1:17</itunes:duration>
+<itunes:author>Tom Igoe</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 6 — Chris Abraham</title>
+<description>scibe? how</description>
+<link>https://scibe.org/s6.html</link>
+<guid isPermaLink="true">https://scibe.org/s6.html</guid>
+<pubDate>Thu, 18 Aug 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s6.mp3" length="79141" type="audio/mpeg"/>
+<itunes:duration>0:09</itunes:duration>
+<itunes:author>Chris Abraham</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 7 — Judy Malloy</title>
+<description>Out my WELL window, Tom Igoe is on the floor in Boston with his Powerbook. His cat is walking on the keyboard. It is grey, muggy, and humid in Boston, he says. On Arts Wire, Chris Abraham comments on the inaccuracy of my name. I am not sure what he means. The silver bracelet…</description>
+<link>https://scibe.org/s7.html</link>
+<guid isPermaLink="true">https://scibe.org/s7.html</guid>
+<pubDate>Fri, 19 Aug 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s7.mp3" length="270181" type="audio/mpeg"/>
+<itunes:duration>0:33</itunes:duration>
+<itunes:author>Judy Malloy</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 8 — Judy Malloy</title>
+<description>The white cardbox also contains a green kazoo, bubble soap and two bubble blowing pipes. These things were sent to me by Larry. "When I was a kid, I was pretty much labelled with a permanent outpatient status. When I would come home from the Emergency room with a new cast or a…</description>
+<link>https://scibe.org/s8.html</link>
+<guid isPermaLink="true">https://scibe.org/s8.html</guid>
+<pubDate>Fri, 19 Aug 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s8.mp3" length="292453" type="audio/mpeg"/>
+<itunes:duration>0:36</itunes:duration>
+<itunes:author>Judy Malloy</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 9 — Judy Malloy</title>
+<description>Wordlessly, Andrea places a miniature white paper cup containing two shiny red capsules on the table beside my bed. From a trailer in Florida, Melynda's words scroll across my screen. Jenny is on her way to Spirit Lake she says in the final sentences. I will read the rest…</description>
+<link>https://scibe.org/s9.html</link>
+<guid isPermaLink="true">https://scibe.org/s9.html</guid>
+<pubDate>Sun, 21 Aug 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s9.mp3" length="310501" type="audio/mpeg"/>
+<itunes:duration>0:38</itunes:duration>
+<itunes:author>Judy Malloy</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 10 — Judy Malloy</title>
+<description>Jumping beans were always included in our stockings. When was I sitting under the palm tree in front of the faded yellow duplex looking up at the underbellies of incoming planes? Like a mechanically defective windup toy, the car entered and reentered the cul- de-sac, playing…</description>
+<link>https://scibe.org/s10.html</link>
+<guid isPermaLink="true">https://scibe.org/s10.html</guid>
+<pubDate>Sun, 21 Aug 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s10.mp3" length="273253" type="audio/mpeg"/>
+<itunes:duration>0:34</itunes:duration>
+<itunes:author>Judy Malloy</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 11 — Tim Collins</title>
+<description>Scibe; would you like to take a walk down Carson st. on the south side? Let Reiko and I close the windows and put on some shoes we'll be right out. Standing on the sidewalk at 17th and Jane st, we look right — neatly kept turn of the century brick and clapboard row houses, the…</description>
+<link>https://scibe.org/s11.html</link>
+<guid isPermaLink="true">https://scibe.org/s11.html</guid>
+<pubDate>Mon, 22 Aug 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s11.mp3" length="2325541" type="audio/mpeg"/>
+<itunes:duration>4:50</itunes:duration>
+<itunes:author>Tim Collins</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 12 — Chris Abraham</title>
+<description>Chris Abraham, noting that he might have been misconstrued, adds that Judy is missing an appropriate "r." My handle on eWorld is "Shooter." Yours shall be Scribe to me. Then the coffee broke the haze of this, a sleepless 24 hours. ANd the dog by my feet decided to pee and my…</description>
+<link>https://scibe.org/s12.html</link>
+<guid isPermaLink="true">https://scibe.org/s12.html</guid>
+<pubDate>Mon, 22 Aug 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s12.mp3" length="1804261" type="audio/mpeg"/>
+<itunes:duration>3:45</itunes:duration>
+<itunes:author>Chris Abraham</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 13 — Judy Malloy</title>
+<description>This night nurse's name is Peter. "Do you like dirty jokes?" he asks me. He is removing the layers of bandages on my leg. No I say somewhat untruthfully turning my eyes to the grey and white screen of my Toshiba T3300SL. Arts Wire: Chris is camping on the Blue Ridge Maintain…</description>
+<link>https://scibe.org/s13.html</link>
+<guid isPermaLink="true">https://scibe.org/s13.html</guid>
+<pubDate>Tue, 23 Aug 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s13.mp3" length="704293" type="audio/mpeg"/>
+<itunes:duration>1:28</itunes:duration>
+<itunes:author>Judy Malloy</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 14 — Chris Abraham</title>
+<description>A beautiful red-headed friend calls with a thickbassy voice. He calls to tell me of the Shanindoahs he slept amongst in an old stone home turned hostel. I passed him, unbeknownst to me, while he ate pasta primavera — I was racing down 81, 66, and he sat there wishing it was…</description>
+<link>https://scibe.org/s14.html</link>
+<guid isPermaLink="true">https://scibe.org/s14.html</guid>
+<pubDate>Wed, 24 Aug 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s14.mp3" length="1210597" type="audio/mpeg"/>
+<itunes:duration>2:31</itunes:duration>
+<itunes:author>Chris Abraham</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 15 — Judy Malloy</title>
+<description>In this dream, I am crossing the Golden Gate Bridge with my brother at night. He is autistic, and his coordination is not very good. We are way up in the orange scaffolding, moving slowly, helping each other. The Pacific ocean is black beneath us. It is never dark enough in this…</description>
+<link>https://scibe.org/s15.html</link>
+<guid isPermaLink="true">https://scibe.org/s15.html</guid>
+<pubDate>Fri, 26 Aug 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s15.mp3" length="371565" type="audio/mpeg"/>
+<itunes:duration>0:46</itunes:duration>
+<itunes:author>Judy Malloy</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 16 — Anna Couey</title>
+<description>I keep having dreams of murderers and wake up with dim remembrance of bodies ribboned with red and my own anger. Is it because incoherent arguments among the alcoholics outside my window more frequently dissolve in fist fights? At work I gaze across the peaceful harbor in…</description>
+<link>https://scibe.org/s16.html</link>
+<guid isPermaLink="true">https://scibe.org/s16.html</guid>
+<pubDate>Sat, 27 Aug 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s16.mp3" length="464101" type="audio/mpeg"/>
+<itunes:duration>0:58</itunes:duration>
+<itunes:author>Anna Couey</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 17 — Judy Malloy</title>
+<description>A woman came to my door carrying a chair. It was exactly like the chair that I found beside the dumpster, only my chair was broken in many places, and hers was whole. She offered me her chair but instead I gave her its mate — my broken chair. She said. "That's nice — now they…</description>
+<link>https://scibe.org/s17.html</link>
+<guid isPermaLink="true">https://scibe.org/s17.html</guid>
+<pubDate>Sun, 28 Aug 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s17.mp3" length="274597" type="audio/mpeg"/>
+<itunes:duration>0:34</itunes:duration>
+<itunes:author>Judy Malloy</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 18 — Judy Malloy</title>
+<description>I push the elastic yellow scrambled eggs around on my tray with my fork so that it appears that I have eaten some while on Arts Wire, Anna Couey dreams of murderers, looks out the WELL window at the peaceful Sausalito harbor, tells a story about exchanging net access for coffee…</description>
+<link>https://scibe.org/s18.html</link>
+<guid isPermaLink="true">https://scibe.org/s18.html</guid>
+<pubDate>Sun, 28 Aug 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s18.mp3" length="183397" type="audio/mpeg"/>
+<itunes:duration>0:22</itunes:duration>
+<itunes:author>Judy Malloy</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 19 — Chris Abraham</title>
+<description>I spent a romantic day. I spent a Romantic Day. With a woman who sees me leaving for a brief spell, but the truth may be many months. I second guess me motives. Money seems more important sometimes than artistic integrity. Loan. Cards. Late afternoons on the roof at 'Perry's.'…</description>
+<link>https://scibe.org/s19.html</link>
+<guid isPermaLink="true">https://scibe.org/s19.html</guid>
+<pubDate>Mon, 29 Aug 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s19.mp3" length="1564453" type="audio/mpeg"/>
+<itunes:duration>3:15</itunes:duration>
+<itunes:author>Chris Abraham</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 20 — Tom Igoe</title>
+<description>Meanwhile, back in Somerville, I'm sitting at the keyboard in the very early morning looking out over the flat grey roofs of Somerville's Ball Square shopping center. My new apartment is on the third floor of a shopfront building, tucked back in a far corner of the building. The…</description>
+<link>https://scibe.org/s20.html</link>
+<guid isPermaLink="true">https://scibe.org/s20.html</guid>
+<pubDate>Tue, 30 Aug 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s20.mp3" length="1445797" type="audio/mpeg"/>
+<itunes:duration>3:00</itunes:duration>
+<itunes:author>Tom Igoe</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 21 — Judy Malloy</title>
+<description>At this early hour, my door would be ajar -through the crack: green lemons turning yellow in the foreground tree, boney brown and grey cats, a freshly painted yellow fire hydrant in the background, black cats. What color is Chris's reoccurring Mercedes? "Bumped round on your…</description>
+<link>https://scibe.org/s21.html</link>
+<guid isPermaLink="true">https://scibe.org/s21.html</guid>
+<pubDate>Tue, 30 Aug 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s21.mp3" length="419181" type="audio/mpeg"/>
+<itunes:duration>0:52</itunes:duration>
+<itunes:author>Judy Malloy</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 22 — Judy Malloy</title>
+<description>On the WELL, Tom observes that the brand new blue carpets are out of place in the book filled living room of his new apartment "where everything else bears the scars of multiple</description>
+<link>https://scibe.org/s22.html</link>
+<guid isPermaLink="true">https://scibe.org/s22.html</guid>
+<pubDate>Tue, 30 Aug 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s22.mp3" length="125229" type="audio/mpeg"/>
+<itunes:duration>0:15</itunes:duration>
+<itunes:author>Judy Malloy</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 23 — Chris Abraham</title>
+<description>I drank Newcastle Brown all night I smoke Marlboro Reds I am a little tipsy. It is good to go to a bar because everyone there has many regrets. They said, "You had better take this chance before you have kids. You had better take this adventure by the small and hairies before…</description>
+<link>https://scibe.org/s23.html</link>
+<guid isPermaLink="true">https://scibe.org/s23.html</guid>
+<pubDate>Tue, 30 Aug 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s23.mp3" length="1234597" type="audio/mpeg"/>
+<itunes:duration>2:34</itunes:duration>
+<itunes:author>Chris Abraham</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 24 — Valerie Gardiner</title>
+<description>Bob, the Internet guy at Delphi, tells me I'm not ignorant. Chris Abraham has slid up to Nov 7 already and he's in a bar listening about the weather. I'm not failing. Only once have I dreamed about murder. I dreamed that one of my students, a white-haired retired man, shot me…</description>
+<link>https://scibe.org/s24.html</link>
+<guid isPermaLink="true">https://scibe.org/s24.html</guid>
+<pubDate>Wed, 31 Aug 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s24.mp3" length="289389" type="audio/mpeg"/>
+<itunes:duration>0:36</itunes:duration>
+<itunes:author>Valerie Gardiner</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 25 — Chris Abraham</title>
+<description>Another passenger boards the autobus. Fearing death at point blank range by a man never met. Fear has set and it rests in the sternum. I extrocate myself from you. I extrocate myself from you. I extrocate myself from you. The tickets to San Juan are not first class. I will sit…</description>
+<link>https://scibe.org/s25.html</link>
+<guid isPermaLink="true">https://scibe.org/s25.html</guid>
+<pubDate>Thu, 01 Sep 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s25.mp3" length="447013" type="audio/mpeg"/>
+<itunes:duration>0:55</itunes:duration>
+<itunes:author>Chris Abraham</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 26 — Judy Malloy</title>
+<description>In the package from Ann () there were tiny metal hearts and a smiling gold half moon. I am chewing the RELAX gum that accompanied these things, studying the Asian characters on its green and silver wrapping while Alice determines my blood pressure. She is getting married in…</description>
+<link>https://scibe.org/s26.html</link>
+<guid isPermaLink="true">https://scibe.org/s26.html</guid>
+<pubDate>Sat, 03 Sep 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s26.mp3" length="706021" type="audio/mpeg"/>
+<itunes:duration>1:28</itunes:duration>
+<itunes:author>Judy Malloy</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 27 — Tim Collins</title>
+<description>Here in Pittsburgh, we sit on the stoop at night listening to what we have discovered are night hawks. They fly rapidly then dive bomb flying bugs. The wind passing through their wings creates a loud buzzing noise. -They seem to be most active as the sun passes or rises. The…</description>
+<link>https://scibe.org/s27.html</link>
+<guid isPermaLink="true">https://scibe.org/s27.html</guid>
+<pubDate>Sun, 04 Sep 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s27.mp3" length="400749" type="audio/mpeg"/>
+<itunes:duration>0:50</itunes:duration>
+<itunes:author>Tim Collins</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 28 — Chris Abraham</title>
+<description>Commuting to Mystic, Connecticut. Driving up in a shit-brown diesel getting there then feeling used drive home the next day, girl follows in a long Amtrak car. White-haired men remind me of age. The reaper, under his soiled hood, had thick white hair. Age is death death is the…</description>
+<link>https://scibe.org/s28.html</link>
+<guid isPermaLink="true">https://scibe.org/s28.html</guid>
+<pubDate>Mon, 05 Sep 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s28.mp3" length="437413" type="audio/mpeg"/>
+<itunes:duration>0:54</itunes:duration>
+<itunes:author>Chris Abraham</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 29 — Judy Malloy</title>
+<description>Chris is driving home from Mystic Connecticut. "girl follows in a long Amtrak car" Silver walker with gray trim. Right leg powered. My mangled left leg dangles painfully in its plastic cradle — from bed to bathroom and back again. I am clumsily recapturing control of basic body…</description>
+<link>https://scibe.org/s29.html</link>
+<guid isPermaLink="true">https://scibe.org/s29.html</guid>
+<pubDate>Tue, 06 Sep 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s29.mp3" length="433381" type="audio/mpeg"/>
+<itunes:duration>0:54</itunes:duration>
+<itunes:author>Judy Malloy</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 30 — Judy Malloy</title>
+<description>"My husband came over to Egypt to find a wife," says the small dark women with the unlikely name of Henrietta "and that was me. I was 14 years old." She lies sunk deep into her bed, and there is no way of knowing what is wrong. In a few days she will tell me, or I will work up…</description>
+<link>https://scibe.org/s30.html</link>
+<guid isPermaLink="true">https://scibe.org/s30.html</guid>
+<pubDate>Tue, 06 Sep 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s30.mp3" length="353701" type="audio/mpeg"/>
+<itunes:duration>0:44</itunes:duration>
+<itunes:author>Judy Malloy</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 31 — Chris Abraham</title>
+<description>What is the reason for one to sit cross-legged? It is such a nice shape, this leg-crossing, like protection — and the shape of the calf and thigh. A feminine shape, even on men. "The English men often cross their legs, though they are not really in touch with their feminine…</description>
+<link>https://scibe.org/s31.html</link>
+<guid isPermaLink="true">https://scibe.org/s31.html</guid>
+<pubDate>Wed, 07 Sep 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s31.mp3" length="1019941" type="audio/mpeg"/>
+<itunes:duration>2:07</itunes:duration>
+<itunes:author>Chris Abraham</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 32 — Valerie Gardiner</title>
+<description>Bad lightening storms last night. I went out this morning. The grass around my house had grown to seven inches tall. And each blade was singed brown at the top, still bright green at the base. None of the other houses had singed grass. In another dream, I saw a silver Mercedes…</description>
+<link>https://scibe.org/s32.html</link>
+<guid isPermaLink="true">https://scibe.org/s32.html</guid>
+<pubDate>Sat, 10 Sep 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s32.mp3" length="418021" type="audio/mpeg"/>
+<itunes:duration>0:52</itunes:duration>
+<itunes:author>Valerie Gardiner</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 33 — Judy Malloy</title>
+<description>Arts Wire: An electrical storm has singed the grass brown in Valerie's yard. Hers is the only yard in her neighborhood effected in this way. On the same system in an adjacent response, Chris's father is flying through the air over the bars of his Honda motorcycle. " The front…</description>
+<link>https://scibe.org/s33.html</link>
+<guid isPermaLink="true">https://scibe.org/s33.html</guid>
+<pubDate>Sat, 10 Sep 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s33.mp3" length="373861" type="audio/mpeg"/>
+<itunes:duration>0:46</itunes:duration>
+<itunes:author>Judy Malloy</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 34 — Chris Abraham</title>
+<description>"Long Day's Journey Into Night." It is a drama of layers. A foot disconnected. Amputation? The loss of self. It may itch in the late hours when you can't sleep, someone said, but you won't be able to scratch. My father's leg shattered in so many places — thank's to the crack…</description>
+<link>https://scibe.org/s34.html</link>
+<guid isPermaLink="true">https://scibe.org/s34.html</guid>
+<pubDate>Mon, 12 Sep 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s34.mp3" length="1056421" type="audio/mpeg"/>
+<itunes:duration>2:12</itunes:duration>
+<itunes:author>Chris Abraham</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 35 — Judy Malloy</title>
+<description>FROM: Daniel E. Sorent, Computer Specialist, Mapirota County Court These writings were on a computer disk found under the pillow of patient Q. in September 1994, after she disappeared from the Mapirota Nursing Home. The evidence is that she left the home under her own volition…</description>
+<link>https://scibe.org/s35.html</link>
+<guid isPermaLink="true">https://scibe.org/s35.html</guid>
+<pubDate>Sat, 17 Sep 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s35.mp3" length="276901" type="audio/mpeg"/>
+<itunes:duration>0:34</itunes:duration>
+<itunes:author>Judy Malloy</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 36 — Chris Abraham</title>
+<description>A wholesome weekend in Connecticut with a wholesome single mom who works two nursing jobs to send her girls through the best schools. Their cat, they have three, brought a dead rat to the door. The rodent lay wet and decapitated in the grass. "The cats knew we were having guests…</description>
+<link>https://scibe.org/s36.html</link>
+<guid isPermaLink="true">https://scibe.org/s36.html</guid>
+<pubDate>Mon, 19 Sep 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s36.mp3" length="789541" type="audio/mpeg"/>
+<itunes:duration>1:38</itunes:duration>
+<itunes:author>Chris Abraham</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 37 — Valerie Gardiner</title>
+<description>I made a reservation for a room with two double beds. Alice got the key from the desk. We took the elevator. Our room was large, but crammed with ten double beds. Alice and I were assigned one of the beds. A middle-aged blond and a barely-grown man sat close together on the last…</description>
+<link>https://scibe.org/s37.html</link>
+<guid isPermaLink="true">https://scibe.org/s37.html</guid>
+<pubDate>Fri, 30 Sep 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s37.mp3" length="271717" type="audio/mpeg"/>
+<itunes:duration>0:33</itunes:duration>
+<itunes:author>Valerie Gardiner</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 38 — Judy Malloy</title>
+<description>I was on the road again lying awake in an unfamiliar bed — was the laughter in the background when I called him from the phone booth at the shopping center a part of a recent dream? It was difficult to</description>
+<link>https://scibe.org/s38.html</link>
+<guid isPermaLink="true">https://scibe.org/s38.html</guid>
+<pubDate>Sun, 02 Oct 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s38.mp3" length="135013" type="audio/mpeg"/>
+<itunes:duration>0:16</itunes:duration>
+<itunes:author>Judy Malloy</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 39 — Valerie Gardiner</title>
+<description>I was on the road again lying awake the gas gauge is no longer reliable I have to count each mile Mentally ticking each little green milepost Judy said there was a phone booth at the shopping center but I don't see</description>
+<link>https://scibe.org/s39.html</link>
+<guid isPermaLink="true">https://scibe.org/s39.html</guid>
+<pubDate>Sun, 02 Oct 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s39.mp3" length="153061" type="audio/mpeg"/>
+<itunes:duration>0:19</itunes:duration>
+<itunes:author>Valerie Gardiner</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 40 — Chris Abraham</title>
+<description>I spent the evening under the influence and saw right through the paltry haze under which I have spent my days before the page, a pen gripped tight, pressing out the butts into an empty tea cup. I watched the night glow in RGB. I saw the devil in a friend. I spoke a world of…</description>
+<link>https://scibe.org/s40.html</link>
+<guid isPermaLink="true">https://scibe.org/s40.html</guid>
+<pubDate>Tue, 04 Oct 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s40.mp3" length="1186981" type="audio/mpeg"/>
+<itunes:duration>2:28</itunes:duration>
+<itunes:author>Chris Abraham</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 41 — Joseph Wilson</title>
+<description>Yesterday I realized that Popes have laps just like everyone else. I reached for my bandaged phone to call the past and see how it's doing in the present. It's aging, balding, and procreating. Stories changed from drinking adventures to nursery school adventures but I never saw…</description>
+<link>https://scibe.org/s41.html</link>
+<guid isPermaLink="true">https://scibe.org/s41.html</guid>
+<pubDate>Tue, 04 Oct 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s41.mp3" length="449317" type="audio/mpeg"/>
+<itunes:duration>0:56</itunes:duration>
+<itunes:author>Joseph Wilson</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 42 — Judy Malloy</title>
+<description>I was on the road again lying awake up with pillows and pink acrylic blankets in the back of the car. Was the laughter a part of a recent dream? It was difficult to remember, and I was repeating myself. Night sweats plastered my hair to the side of my face. In the back, it still…</description>
+<link>https://scibe.org/s42.html</link>
+<guid isPermaLink="true">https://scibe.org/s42.html</guid>
+<pubDate>Thu, 06 Oct 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s42.mp3" length="375397" type="audio/mpeg"/>
+<itunes:duration>0:46</itunes:duration>
+<itunes:author>Judy Malloy</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 43 — Judy Malloy</title>
+<description>In the phone booth, I watched the black case that contained my laptop carefully, leaning my sliver metal crutches against the black metal telephone while I fumbled for change. "Yesterday I realized that Popes have laps just like everyone else," Joseph Wilson said on topic 20.…</description>
+<link>https://scibe.org/s43.html</link>
+<guid isPermaLink="true">https://scibe.org/s43.html</guid>
+<pubDate>Thu, 06 Oct 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s43.mp3" length="296101" type="audio/mpeg"/>
+<itunes:duration>0:37</itunes:duration>
+<itunes:author>Judy Malloy</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 44 — Chris Abraham</title>
+<description>Sharon Olds thinks of the Pope's penis: A bell's clapper within the robes. Mark thinks of the universe as a WWW Mark considers the earth a self-directed home page. I wish I hadn't loosened the spout of this frail ineffective reducing valve. As we are, I am a mouse, not l'homme…</description>
+<link>https://scibe.org/s44.html</link>
+<guid isPermaLink="true">https://scibe.org/s44.html</guid>
+<pubDate>Thu, 06 Oct 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s44.mp3" length="393637" type="audio/mpeg"/>
+<itunes:duration>0:49</itunes:duration>
+<itunes:author>Chris Abraham</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 45 — Joseph Wilson</title>
+<description>I got the one day and it is seeming to make a difference or I'm just a gullible shopper. Finally got the suit for a wedding that reeks of expectations. I am expected to (fill in the blank). The suit was $42, used, blue, from the forties. I feel like Jimmy Stewart gone bad. I am…</description>
+<link>https://scibe.org/s45.html</link>
+<guid isPermaLink="true">https://scibe.org/s45.html</guid>
+<pubDate>Thu, 06 Oct 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s45.mp3" length="846373" type="audio/mpeg"/>
+<itunes:duration>1:45</itunes:duration>
+<itunes:author>Joseph Wilson</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 46 — Judy Malloy</title>
+<description>Two cowboys with tight black jeans and shirts so white they shone in the dim evening light stood with their backs to me — in front of Rosalinda's bed. "She's pretty isn't she?" one of the nurses said, and I nodded my head. Meanwhile, Margaret sat erect like a fragile baby bird…</description>
+<link>https://scibe.org/s46.html</link>
+<guid isPermaLink="true">https://scibe.org/s46.html</guid>
+<pubDate>Sun, 09 Oct 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s46.mp3" length="471013" type="audio/mpeg"/>
+<itunes:duration>0:58</itunes:duration>
+<itunes:author>Judy Malloy</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 47 — Judy Malloy</title>
+<description>In this dream, I went to the library twice. The first time, a man wearing a red and white HOHOKUM tee shirt followed me to the xerox machine. The second time, he wasn't there. I must have navigated too far in Goldwater country without a home page, I thought when I woke up.…</description>
+<link>https://scibe.org/s47.html</link>
+<guid isPermaLink="true">https://scibe.org/s47.html</guid>
+<pubDate>Sun, 09 Oct 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s47.mp3" length="272677" type="audio/mpeg"/>
+<itunes:duration>0:34</itunes:duration>
+<itunes:author>Judy Malloy</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 48 — Tim Collins</title>
+<description>I was standing in crystal clear water, the sun was warm, not a breath of wind. large swells would come buy, gently lifting me off my feet. I stood with people how many or who was irrelevant. I felt the earth with my toes and the water with my body. I bobbed with each passing…</description>
+<link>https://scibe.org/s48.html</link>
+<guid isPermaLink="true">https://scibe.org/s48.html</guid>
+<pubDate>Tue, 18 Oct 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s48.mp3" length="748837" type="audio/mpeg"/>
+<itunes:duration>1:33</itunes:duration>
+<itunes:author>Tim Collins</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 49 — Chris Abraham</title>
+<description>Caffeine courses through my body. I can barely bare being in my body, and to rip out like a birthing chick would be devine, but beyond expectation. Don't even have a valium on hand, but if I did, I wouldn't get anything done. It would make me feel like I was emersed in warm…</description>
+<link>https://scibe.org/s49.html</link>
+<guid isPermaLink="true">https://scibe.org/s49.html</guid>
+<pubDate>Thu, 20 Oct 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s49.mp3" length="933733" type="audio/mpeg"/>
+<itunes:duration>1:56</itunes:duration>
+<itunes:author>Chris Abraham</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 50 — Judy Malloy</title>
+<description>With the aid of a poem, I breached the firewall at PARC but was repelled by the sheer volume of accumulated messages. The 376 messages on the WELL were shifting with vague unease — like an old warm waterbed. Every one on Arts Wire reached out with solid, comforting snail mail.…</description>
+<link>https://scibe.org/s50.html</link>
+<guid isPermaLink="true">https://scibe.org/s50.html</guid>
+<pubDate>Sat, 22 Oct 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s50.mp3" length="346021" type="audio/mpeg"/>
+<itunes:duration>0:43</itunes:duration>
+<itunes:author>Judy Malloy</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 51 — Judy Malloy</title>
+<description>On Arts Wire, Tim was standing in "crystal clear water" when he saw the young boy with downs syndrome standing underwater with "no — visible signs of discomfort. " In Palo Alto (the server is the basement) Cathy feels like a ghost and so do I — trailing text on the dim laptop…</description>
+<link>https://scibe.org/s51.html</link>
+<guid isPermaLink="true">https://scibe.org/s51.html</guid>
+<pubDate>Sat, 22 Oct 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s51.mp3" length="454117" type="audio/mpeg"/>
+<itunes:duration>0:56</itunes:duration>
+<itunes:author>Judy Malloy</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 52 — Judy Malloy</title>
+<description>I had entered a room that like many of the rooms in Lambda house was described in such a way that I was able to visualize it. I had started in the living room, but this evening the fire was not lit, and it was cold in the spot beside the fireplace where I usually sit. The room I…</description>
+<link>https://scibe.org/s52.html</link>
+<guid isPermaLink="true">https://scibe.org/s52.html</guid>
+<pubDate>Fri, 28 Oct 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s52.mp3" length="427237" type="audio/mpeg"/>
+<itunes:duration>0:53</itunes:duration>
+<itunes:author>Judy Malloy</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 53 — Valerie Gardiner</title>
+<description>Huxley's reducing valve went</description>
+<link>https://scibe.org/s53.html</link>
+<guid isPermaLink="true">https://scibe.org/s53.html</guid>
+<pubDate>Mon, 31 Oct 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s53.mp3" length="102373" type="audio/mpeg"/>
+<itunes:duration>0:12</itunes:duration>
+<itunes:author>Valerie Gardiner</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 54 — Chris Abraham</title>
+<description>— and caught a shimmering neon platypus wearing a Versace evening</description>
+<link>https://scibe.org/s54.html</link>
+<guid isPermaLink="true">https://scibe.org/s54.html</guid>
+<pubDate>Wed, 02 Nov 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s54.mp3" length="96037" type="audio/mpeg"/>
+<itunes:duration>0:12</itunes:duration>
+<itunes:author>Chris Abraham</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 55 — Valerie Gardiner</title>
+<description>Maureen is speaking to me. I can hear the noise of her speech, but can't understand her words. The sound goes off. I watch her mouth open and</description>
+<link>https://scibe.org/s55.html</link>
+<guid isPermaLink="true">https://scibe.org/s55.html</guid>
+<pubDate>Wed, 02 Nov 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s55.mp3" length="171877" type="audio/mpeg"/>
+<itunes:duration>0:21</itunes:duration>
+<itunes:author>Valerie Gardiner</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 56 — Valerie Gardiner</title>
+<description>She holds a heavy bunch of fabric. It looks like gold curtains. I watch her mouth open and close. The throws the fabric in my face. Now I can hear her. She is screaming, "Versace! Versace! Versace! —</description>
+<link>https://scibe.org/s56.html</link>
+<guid isPermaLink="true">https://scibe.org/s56.html</guid>
+<pubDate>Wed, 02 Nov 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s56.mp3" length="176101" type="audio/mpeg"/>
+<itunes:duration>0:22</itunes:duration>
+<itunes:author>Valerie Gardiner</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 57 — Chris Abraham</title>
+<description>A small lithe italian man walks sing song along a beach in miami. He rubs his short crop hair with a fist while pondering the import of his early drug-taking. As a young boy in Yungaburra, he used to dress small marsupials in gold lame while singing arias in aboriginal tongue.…</description>
+<link>https://scibe.org/s57.html</link>
+<guid isPermaLink="true">https://scibe.org/s57.html</guid>
+<pubDate>Thu, 03 Nov 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s57.mp3" length="712357" type="audio/mpeg"/>
+<itunes:duration>1:29</itunes:duration>
+<itunes:author>Chris Abraham</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 58 — Judy Malloy</title>
+<description>From the floor, I retrieved the ocher yellow sneaker that I had unsuccessfully tried to jam on my slightly misshapen foot. "Crutches are a nightmare," said the woman arranging shirts on the shelf. I sat down on a black chair beside the shoe rack. Suddenly I was riding from Tempe…</description>
+<link>https://scibe.org/s58.html</link>
+<guid isPermaLink="true">https://scibe.org/s58.html</guid>
+<pubDate>Fri, 11 Nov 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s58.mp3" length="458917" type="audio/mpeg"/>
+<itunes:duration>0:57</itunes:duration>
+<itunes:author>Judy Malloy</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 59 — Joseph Wilson</title>
+<description>Big Brother is barking down my throat into my studio. 17 years of games and the codes are suddenly important and changes have to happen, money pressures. New walls will change things, 2 weeks I have to leave my place for the dogs to come in for a new hall, lit signs, smaller…</description>
+<link>https://scibe.org/s59.html</link>
+<guid isPermaLink="true">https://scibe.org/s59.html</guid>
+<pubDate>Fri, 11 Nov 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s59.mp3" length="805477" type="audio/mpeg"/>
+<itunes:duration>1:40</itunes:duration>
+<itunes:author>Joseph Wilson</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 60 — Valerie Gardiner</title>
+<description>I stayed in my hive all during national fuck with artists year. I did go out once, to a PC Users Group meeting. But no one there knows I'm an artist. There was a guy giving a presentation on typefaces. How to choose typefaces for your documents. The man sitting next to me had a…</description>
+<link>https://scibe.org/s60.html</link>
+<guid isPermaLink="true">https://scibe.org/s60.html</guid>
+<pubDate>Sat, 12 Nov 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s60.mp3" length="258277" type="audio/mpeg"/>
+<itunes:duration>0:32</itunes:duration>
+<itunes:author>Valerie Gardiner</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 61 — Judy Malloy</title>
+<description>Today (while Joseph kept saying "silver lining" and the man sitting next to Valerie at the PC user's meeting had a bad hairpiece and elsewhere on Arts Wire, Bill tried to locate a copy of the Republican contract), I encountered two men with white hair — one was a bad painter…</description>
+<link>https://scibe.org/s61.html</link>
+<guid isPermaLink="true">https://scibe.org/s61.html</guid>
+<pubDate>Sat, 19 Nov 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s61.mp3" length="512677" type="audio/mpeg"/>
+<itunes:duration>1:04</itunes:duration>
+<itunes:author>Judy Malloy</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 62 — Joseph Wilson</title>
+<description>The film at eleven will contain the footage of her daughter in law shot in Costa Rica during a robbery attempt. The door knocked. On the other side was the request for me to get off line so my line would be open for a phone call filled with horrible news and tears on plastic. It…</description>
+<link>https://scibe.org/s62.html</link>
+<guid isPermaLink="true">https://scibe.org/s62.html</guid>
+<pubDate>Sat, 19 Nov 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s62.mp3" length="234277" type="audio/mpeg"/>
+<itunes:duration>0:29</itunes:duration>
+<itunes:author>Joseph Wilson</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 63 — Douglas Cohen</title>
+<description>not saying anything why the name the bay area is, perhaps, not southwest enough a new day dawns not wanting to say anything there is a fear about how things will change, yet they change nonetheless onward not knowing unable to know the radio says good human beings make good</description>
+<link>https://scibe.org/s63.html</link>
+<guid isPermaLink="true">https://scibe.org/s63.html</guid>
+<pubDate>Sun, 20 Nov 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s63.mp3" length="225645" type="audio/mpeg"/>
+<itunes:duration>0:28</itunes:duration>
+<itunes:author>Douglas Cohen</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 64 — Valerie Gardiner</title>
+<description>Good music beings made radios. Until the factory was closed. They made too many rests. And no one wanted to buy them. Because everyone knows that rests are free and very easy to make on your</description>
+<link>https://scibe.org/s64.html</link>
+<guid isPermaLink="true">https://scibe.org/s64.html</guid>
+<pubDate>Sun, 20 Nov 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s64.mp3" length="189733" type="audio/mpeg"/>
+<itunes:duration>0:23</itunes:duration>
+<itunes:author>Valerie Gardiner</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 65 — Joseph Wilson</title>
+<description>Boxed loved ones cross international borders during the same days others are on their way to visit their loved ones. On the same plane with grandchildren and uncles, sisters and brothers a widow and a motherless child. It changes when it gets remotely close to you, when it…</description>
+<link>https://scibe.org/s65.html</link>
+<guid isPermaLink="true">https://scibe.org/s65.html</guid>
+<pubDate>Wed, 23 Nov 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s65.mp3" length="612901" type="audio/mpeg"/>
+<itunes:duration>1:16</itunes:duration>
+<itunes:author>Joseph Wilson</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 66 — Judy Malloy</title>
+<description>Unexpected email from Chris arrived at the WELL. He was leaving town — abandoning his local system. moving out in netspace on a carrier called photo dot com while I sat in Brennan's in Berkeley with my leg propped up on the bar stool that stood between me and a man I had never…</description>
+<link>https://scibe.org/s66.html</link>
+<guid isPermaLink="true">https://scibe.org/s66.html</guid>
+<pubDate>Fri, 25 Nov 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s66.mp3" length="612517" type="audio/mpeg"/>
+<itunes:duration>1:16</itunes:duration>
+<itunes:author>Judy Malloy</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Lexia 67 — Judy Malloy</title>
+<description>Sitting in the waiting room for over an hour while everyone else's name was called, I repeatedly flipped through Vogue magazine, wearing baggy red sweat pants. Eric was right about U R Ls. They are ubiquitous now. "there is a fear about how things will change, yet they change"…</description>
+<link>https://scibe.org/s67.html</link>
+<guid isPermaLink="true">https://scibe.org/s67.html</guid>
+<pubDate>Wed, 17 Aug 1994 12:00:00 +0000</pubDate>
+<enclosure url="https://scibe.org/audio/s67.mp3" length="199333" type="audio/mpeg"/>
+<itunes:duration>0:24</itunes:duration>
+<itunes:author>Judy Malloy</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+</item>
+</channel>
+</rss>

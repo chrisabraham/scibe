@@ -1,0 +1,7 @@
+# My Name is Scibe — preservation edition.
+# Quiet-launch posture, per Chris Abraham's ruling of Oct 25, 2026:
+# the edition is published without announcement and stays out of
+# search indexes unless he decides otherwise. Delete this file
+# (or empty the Disallow) to make the edition discoverable.
+User-agent: *
+Disallow: /
