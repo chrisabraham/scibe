@@ -1,0 +1,189 @@
+/* My Name is Scibe — preservation edition stylesheet.
+   Amber phosphor terminal treatment from the design mock. No JavaScript anywhere. */
+
+:root {
+  --field: #16110a;        /* warm near-black */
+  --field-edge: #241a0e;
+  --ink: #ffb648;          /* amber phosphor */
+  --ink-dim: #c98f33;
+  --ink-faint: #8a6425;
+  --link: #ffd27a;
+  --visited: #a8742c;
+  --focus: #ffe9b8;
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--field);
+  color: var(--ink);
+  font-family: ui-monospace, "SF Mono", "Cascadia Mono", Menlo,
+               "Courier New", Courier, monospace;
+  font-size: 1.125rem;
+  line-height: 1.65;
+  padding: 1.25rem 1rem 3rem;
+}
+
+main {
+  max-width: 38rem;
+  margin: 0 auto;
+}
+
+/* --- session banner --------------------------------------------- */
+.banner {
+  border: 1px solid var(--field-edge);
+  padding: 0.9rem 1rem;
+  margin-bottom: 2rem;
+  color: var(--ink-dim);
+  font-size: 0.95rem;
+  line-height: 1.55;
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+}
+.banner .sys { color: var(--ink-faint); }
+
+/* --- skip link --------------------------------------------------- */
+.skip {
+  position: absolute;
+  left: -999px;
+  top: 0;
+  background: var(--field);
+  color: var(--focus);
+  padding: 0.75rem 1rem;
+}
+.skip:focus { left: 0.5rem; top: 0.5rem; }
+
+/* --- headings ----------------------------------------------------- */
+h1 {
+  font-size: 1.9rem;
+  line-height: 1.25;
+  letter-spacing: 0.12em;
+  margin: 0 0 0.4rem;
+  font-weight: 700;
+}
+.kicker {
+  color: var(--ink-dim);
+  margin: 0 0 1.75rem;
+  font-size: 1rem;
+}
+
+/* --- byline / writer index --------------------------------------- */
+.byline { margin: 0 0 2rem; }
+.byline p { margin: 0 0 0.5rem; color: var(--ink-dim); }
+.byline ol {
+  margin: 0;
+  padding-left: 2ch;
+}
+.byline li { margin: 0.15rem 0; }
+
+/* --- prose -------------------------------------------------------- */
+.lexia p { margin: 0 0 1.2em; }
+.intro p { margin: 0 0 1.2em; }
+.attrib {
+  color: var(--ink-dim);
+  margin-bottom: 1.5rem;
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+}
+.note { /* editorial placeholder text in the mock only */
+  color: var(--ink-faint);
+  font-style: normal;
+}
+
+/* --- prompt navigation -------------------------------------------- */
+nav.cmds {
+  margin-top: 2.5rem;
+  border-top: 1px solid var(--field-edge);
+  padding-top: 1.25rem;
+}
+nav.cmds ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+nav.cmds li { margin: 0.35rem 0; }
+a.cmd, span.cmd-off {
+  display: block;
+  min-height: 44px;
+  padding: 0.55rem 0.25rem;
+  text-decoration: none;
+  color: var(--link);
+}
+a.cmd .prompt, span.cmd-off .prompt { color: var(--ink-faint); }
+a.cmd:hover { text-decoration: underline; }
+a.cmd:visited { color: var(--visited); }
+a.cmd:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: 2px;
+}
+span.cmd-off { color: var(--ink-faint); } /* not-yet-built command, mock only */
+
+/* breadcrumb prompt on story pages */
+.crumb {
+  color: var(--ink-faint);
+  margin: 0 0 1.75rem;
+  font-size: 1rem;
+}
+.crumb .you { color: var(--ink-dim); }
+
+/* --- the cursor (garnish only) ------------------------------------- */
+.cursor::after {
+  content: "▊";
+  margin-left: 0.15ch;
+  color: var(--ink);
+  animation: blink 1.1s steps(1) infinite;
+}
+@keyframes blink {
+  0%, 55% { opacity: 1; }
+  56%, 100% { opacity: 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .cursor::after { animation: none; opacity: 1; }
+}
+
+/* --- colophon -------------------------------------------------------- */
+footer {
+  max-width: 38rem;
+  margin: 3rem auto 0;
+  border-top: 1px solid var(--field-edge);
+  padding-top: 1.25rem;
+  color: var(--ink-dim);
+  font-size: 0.95rem;
+}
+footer p { margin: 0 0 0.75em; }
+
+/* --- small screens ---------------------------------------------------- */
+@media (max-width: 30rem) {
+  body { font-size: 1.0625rem; padding: 1rem 0.85rem 2.5rem; }
+  h1 { font-size: 1.55rem; }
+}
+
+/* --- this edition: listening, lists, prose pages ------------------- */
+.listen {
+  border: 1px solid var(--field-edge);
+  padding: 0.9rem 1rem;
+  margin: 0 0 2rem;
+}
+.listen-head { margin: 0 0 0.6rem; color: var(--ink-dim); font-size: 1rem; }
+.listen-head .prompt { color: var(--ink-faint); }
+.listen audio { width: 100%; }
+.listen p:last-child { margin: 0.4rem 0 0; font-size: 0.95rem; }
+.joint { color: var(--ink-faint); font-size: 0.98rem; margin: 0 0 1.2rem; }
+.title-art { text-align: center; margin: 0 0 1.75rem; }
+.title-art img { max-width: 100%; height: auto; }
+.prose p { margin: 0 0 1.2em; }
+.prose h2 {
+  font-size: 1.25rem; letter-spacing: 0.04em;
+  margin: 2rem 0 0.5rem; font-weight: 700;
+}
+.lexia-list .date { color: var(--ink-dim); }
+.named-in, .author-note { color: var(--ink-dim); font-size: 0.98rem; }
+.sources { color: var(--ink-dim); font-size: 0.98rem; }
+.sources ul { margin: 0; padding-left: 2ch; }
+.sources li { margin: 0.3rem 0; }
+a { color: var(--link); }
+a:visited { color: var(--visited); }
+a:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
