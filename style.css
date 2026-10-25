@@ -187,3 +187,25 @@ footer p { margin: 0 0 0.75em; }
 a { color: var(--link); }
 a:visited { color: var(--visited); }
 a:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+
+/* --- the 1994 screen: story pages get the full terminal width -------
+   Measured across the archive (all 67 lexias + the title page): no
+   line as posted in 1994 exceeds 74 characters — the work was written
+   on 80-column screens. Story pages (lexias + title page) therefore
+   get an 80ch measure, so every original line fits on one line at the
+   unchanged body type size (1.125rem). Framing prose keeps 38rem. */
+main.story, footer.story { max-width: 80ch; }
+
+/* Lexia text never wraps: the line layout is the work. Lines are held
+   with nowrap (the <br> structure is untouched); a block wider than
+   its frame scrolls sideways inside the frame, never the page. */
+.lexia { overflow-x: auto; }
+.lexia p { white-space: nowrap; }
+
+/* Small screens: instead of shrinking below legibility or wrapping,
+   the lexia block's type scales with the viewport so the full 80
+   columns stay on screen — 80 columns x ~0.606em average monospace
+   advance = the divisor below. The 7px floor is the legibility limit;
+   below it the block scrolls sideways inside its frame (above).
+   Desktop is untouched: the clamp caps at the body size, 1.125rem. */
+.lexia { font-size: clamp(7px, calc((100vw - 2rem) / 48.5), 1.125rem); }

@@ -11,7 +11,8 @@
 <itunes:explicit>false</itunes:explicit>
 <itunes:category text="Arts"><itunes:category text="Books"/></itunes:category>
 <itunes:category text="Arts"><itunes:category text="Literature"/></itunes:category>
-<itunes:owner><itunes:name>Chris Abraham</itunes:name><itunes:email>cabraham@gmail.com</itunes:email></itunes:owner>
+<itunes:type>serial</itunes:type>
+<itunes:owner><itunes:name>Scibe Preservation Edition</itunes:name><itunes:email>cabraham@gmail.com</itunes:email></itunes:owner>
 <itunes:image href="https://scibe.org/scibe.gif"/>
 <item>
 <title>Title Page — Judy Malloy</title>
