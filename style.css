@@ -196,16 +196,19 @@ a:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
    unchanged body type size (1.125rem). Framing prose keeps 38rem. */
 main.story, footer.story { max-width: 80ch; }
 
-/* Lexia text never wraps: the line layout is the work. Lines are held
-   with nowrap (the <br> structure is untouched); a block wider than
-   its frame scrolls sideways inside the frame, never the page. */
-.lexia { overflow-x: auto; }
-.lexia p { white-space: nowrap; }
+/* Lexia lines break only where the work breaks them (the <br>
+   structure is untouched). Over-long lines — prose paragraphs posted
+   as single lines, Valerie Gardiner's among them — wrap to the frame
+   the way a 1994 terminal wrapped them. (Changed Oct 25, 2026, on
+   Chris's ruling: the earlier nowrap rule forced a sideways scroll
+   inside the frame on those lines; side-scrolling is a modern
+   artifact, not a 1994 reading experience.) */
+.lexia { overflow-x: visible; }
+.lexia p { white-space: normal; }
 
-/* Small screens: instead of shrinking below legibility or wrapping,
-   the lexia block's type scales with the viewport so the full 80
-   columns stay on screen — 80 columns x ~0.606em average monospace
-   advance = the divisor below. The 7px floor is the legibility limit;
-   below it the block scrolls sideways inside its frame (above).
-   Desktop is untouched: the clamp caps at the body size, 1.125rem. */
+/* Small screens: the lexia block's type scales with the viewport so
+   the full 80 columns stay on screen — 80 columns x ~0.606em average
+   monospace advance = the divisor below. The 7px floor is the
+   legibility limit; below it, lines wrap (above). Desktop is
+   untouched: the clamp caps at the body size, 1.125rem. */
 .lexia { font-size: clamp(7px, calc((100vw - 2rem) / 48.5), 1.125rem); }
