@@ -1,7 +1,7 @@
 # My Name is Scibe — preservation edition.
-# Quiet-launch posture:
-# the edition is published without announcement and stays out of
-# search indexes. Delete this file
-# (or empty the Disallow) to make the edition discoverable.
+# Opened to search engines Oct 25, 2026, by Chris Abraham's ruling
+# (the quiet-launch Disallow: / stood until then).
 User-agent: *
-Disallow: /
+Disallow:
+
+Sitemap: https://scibe.org/sitemap.xml
