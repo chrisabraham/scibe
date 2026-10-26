@@ -7,6 +7,7 @@
 - [Title page](https://scibe.org/index.html): the work's front door — byline, Judy Malloy's introduction, and the closing poem, as posted in 1994.
 - [The complete work on one scroll](https://scibe.org/complete.html): the title page and all sixty-seven lexias in order on a single page, with one stitched recording of the whole work read aloud.
 - [Lexia 1](https://scibe.org/s1.html): where reading begins; every lexia page carries its own recording and the 1994 choice links onward.
+- The descendant edition: [Item 8](https://item8.org/) at item8.org, opened in 1997 by Chris Abraham, one of Scibe's writers, to recreate this work.
 
 ## Reference
 
@@ -15,8 +16,8 @@
 - [Index of the work](https://scibe.org/work-index.html): every person, place, organization and recurring thing named in the lexias, each linked to where it occurs.
 - [Glossary](https://scibe.org/glossary.html): the work's coinages and the period's platform words, grounded in the lexias.
 - [FAQ](https://scibe.org/faq.html): plain questions and plain answers about the work and this edition.
-- [Bibliography](https://scibe.org/bibliography.html): every source the edition stands on, gathered in one place, each entry tied to the pages that cite it.
-- [Acknowledgements](https://scibe.org/acknowledgements.html): the edition's thanks, by name and at length — to Judy Malloy first, to the seven who joined her, to ARTS WIRE and The WELL, and to the village that kept the rooms.
+- [Bibliography](https://scibe.org/bibliography.html): the edition's paper arranged by the work's fate — the WELL copy and its scholarship, the lost ARTS WIRE copy, the two rooms' machinery, the writers in their own words, testimony, and the neighbouring classroom's paper in an appendix — each entry tied to the pages that cite it.
+- [Acknowledgements](https://scibe.org/acknowledgements.html): the edition's debts, named from the record — to Judy Malloy, who originated and orchestrated the work, to her seven co-authors, to ARTS WIRE and The WELL, and to the village that kept the rooms.
 - [Wiki](https://scibe.org/wiki.html): fifteen sourced reference entries—the context layer—on online conferencing, Caucus, telnet and the web transition, ARTS WIRE, The WELL, The Meta Network, MDN, the village of hosts and makers, hypertext, and the work itself.
 - [Colophon](https://scibe.org/colophon.html): how this preservation edition was made, what was and was not changed, and the terms it stands on.
 
