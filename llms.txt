@@ -16,6 +16,7 @@
 - [Glossary](https://scibe.org/glossary.html): the work's coinages and the period's platform words, grounded in the lexias.
 - [FAQ](https://scibe.org/faq.html): plain questions and plain answers about the work and this edition.
 - [Bibliography](https://scibe.org/bibliography.html): every source the edition stands on, gathered in one place, each entry tied to the pages that cite it.
+- [Acknowledgements](https://scibe.org/acknowledgements.html): the edition's thanks, by name and at length — to Judy Malloy first, to the seven who joined her, to ARTS WIRE and The WELL, and to the village that kept the rooms.
 - [Wiki](https://scibe.org/wiki.html): fifteen sourced reference entries—the context layer—on online conferencing, Caucus, telnet and the web transition, ARTS WIRE, The WELL, The Meta Network, MDN, the village of hosts and makers, hypertext, and the work itself.
 - [Colophon](https://scibe.org/colophon.html): how this preservation edition was made, what was and was not changed, and the terms it stands on.
 
