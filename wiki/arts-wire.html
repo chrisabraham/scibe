@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="index, follow">
 <title>ARTS WIRE — the Scibe wiki — My Name is Scibe</title>
 <meta name="description" content="ARTS WIRE: the New York Foundation for the Arts’ online network for artists (1992–2002), its eighty conferences, Arts Wire Current, and the Interactive Art Conference where Scibe was written.">
 <link rel="canonical" href="https://scibe.org/wiki/arts-wire.html">
@@ -20,19 +21,58 @@
 <meta name="twitter:image" content="https://scibe.org/og-card.png">
 <link rel="stylesheet" href="../style.css">
 <link rel="alternate" type="application/rss+xml" title="My Name is Scibe — the readings" href="../podcast.xml">
+<link rel="alternate" type="application/atom+xml" title="My Name is Scibe — the readings (Atom)" href="../atom.xml">
 <script type="application/ld+json">
 {
  "@context": "https://schema.org",
- "@type": "Article",
- "headline": "ARTS WIRE",
- "description": "ARTS WIRE: the New York Foundation for the Arts’ online network for artists (1992–2002), its eighty conferences, Arts Wire Current, and the Interactive Art Conference where Scibe was written.",
- "url": "https://scibe.org/wiki/arts-wire.html",
- "mainEntityOfPage": "https://scibe.org/wiki/arts-wire.html",
- "inLanguage": "en",
- "isPartOf": {
-  "@type": "CollectionPage",
-  "url": "https://scibe.org/wiki.html"
- }
+ "@graph": [
+  {
+   "@type": "WebSite",
+   "@id": "https://scibe.org/#website",
+   "url": "https://scibe.org/",
+   "name": "My Name is Scibe",
+   "alternateName": "Scibe",
+   "inLanguage": "en",
+   "about": {
+    "@id": "https://scibe.org/#work"
+   }
+  },
+  {
+   "@type": "CreativeWork",
+   "@id": "https://scibe.org/#edition",
+   "name": "My Name is Scibe — preservation edition",
+   "url": "https://scibe.org/",
+   "inLanguage": "en",
+   "datePublished": "2026-10-25",
+   "isBasedOn": "https://people.well.com/user/jmalloy/scibe/story.html"
+  },
+  {
+   "@type": "WebPage",
+   "@id": "https://scibe.org/wiki/arts-wire.html#webpage",
+   "url": "https://scibe.org/wiki/arts-wire.html",
+   "name": "ARTS WIRE — the Scibe wiki — My Name is Scibe",
+   "description": "ARTS WIRE: the New York Foundation for the Arts’ online network for artists (1992–2002), its eighty conferences, Arts Wire Current, and the Interactive Art Conference where Scibe was written.",
+   "inLanguage": "en",
+   "isPartOf": {
+    "@id": "https://scibe.org/#website"
+   },
+   "about": {
+    "@id": "https://scibe.org/#work"
+   }
+  },
+  {
+   "@type": "Article",
+   "headline": "ARTS WIRE",
+   "description": "ARTS WIRE: the New York Foundation for the Arts’ online network for artists (1992–2002), its eighty conferences, Arts Wire Current, and the Interactive Art Conference where Scibe was written.",
+   "url": "https://scibe.org/wiki/arts-wire.html",
+   "inLanguage": "en",
+   "isPartOf": {
+    "@type": "CollectionPage",
+    "url": "https://scibe.org/wiki.html"
+   },
+   "mainEntityOfPage": "https://scibe.org/wiki/arts-wire.html"
+  }
+ ]
 }
 </script>
 <!-- Google tag (gtag.js) -->
@@ -97,6 +137,7 @@
   </ul>
 </nav>
 </main>
+  <p class="share">share — <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fscibe.org%2Fwiki%2Farts-wire.html&amp;text=ARTS%20WIRE%20%E2%80%94%20the%20Scibe%20wiki%20%E2%80%94%20My%20Name%20is%20Scibe" rel="noopener">X</a> · <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fscibe.org%2Fwiki%2Farts-wire.html" rel="noopener">Facebook</a> · <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fscibe.org%2Fwiki%2Farts-wire.html" rel="noopener">LinkedIn</a> · <a href="mailto:?subject=ARTS%20WIRE%20%E2%80%94%20the%20Scibe%20wiki%20%E2%80%94%20My%20Name%20is%20Scibe&amp;body=https%3A%2F%2Fscibe.org%2Fwiki%2Farts-wire.html" rel="noopener">email</a></p>
 
 <footer>
   <p>© 1994 Judy Malloy, Tom Igoe, Chris Abraham, Tim Collins, Anna Couey, Valerie Gardiner, Joseph Wilson, Doug Cohen</p>

@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="index, follow">
 <title>Colophon — My Name is Scibe</title>
 <meta name="description" content="How the preservation edition of My Name is Scibe (1994) was made: text and links unaltered, frame rebuilt, readings recorded, dead links disclosed.">
 <link rel="canonical" href="https://scibe.org/colophon.html">
@@ -20,15 +21,44 @@
 <meta name="twitter:image" content="https://scibe.org/og-card.png">
 <link rel="stylesheet" href="style.css">
 <link rel="alternate" type="application/rss+xml" title="My Name is Scibe — the readings" href="podcast.xml">
+<link rel="alternate" type="application/atom+xml" title="My Name is Scibe — the readings (Atom)" href="atom.xml">
 <script type="application/ld+json">
 {
  "@context": "https://schema.org",
- "@type": "WebPage",
- "name": "Colophon — My Name is Scibe",
- "url": "https://scibe.org/colophon.html",
- "about": {
-  "@id": "https://scibe.org/#work"
- }
+ "@graph": [
+  {
+   "@type": "WebSite",
+   "@id": "https://scibe.org/#website",
+   "url": "https://scibe.org/",
+   "name": "My Name is Scibe",
+   "alternateName": "Scibe",
+   "inLanguage": "en",
+   "about": {
+    "@id": "https://scibe.org/#work"
+   }
+  },
+  {
+   "@type": "CreativeWork",
+   "@id": "https://scibe.org/#edition",
+   "name": "My Name is Scibe — preservation edition",
+   "url": "https://scibe.org/",
+   "inLanguage": "en",
+   "datePublished": "2026-10-25",
+   "isBasedOn": "https://people.well.com/user/jmalloy/scibe/story.html"
+  },
+  {
+   "@type": "WebPage",
+   "name": "Colophon — My Name is Scibe",
+   "url": "https://scibe.org/colophon.html",
+   "about": {
+    "@id": "https://scibe.org/#work"
+   },
+   "@id": "https://scibe.org/colophon.html#webpage",
+   "isPartOf": {
+    "@id": "https://scibe.org/#website"
+   }
+  }
+ ]
 }
 </script>
 <!-- Google tag (gtag.js) -->
@@ -72,6 +102,7 @@
     <p class="cursor" aria-hidden="true"><span class="prompt" style="color:var(--ink-faint)">scibe&gt;</span></p>
   </nav>
 </main>
+  <p class="share">share — <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fscibe.org%2Fcolophon.html&amp;text=Colophon%20%E2%80%94%20My%20Name%20is%20Scibe" rel="noopener">X</a> · <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fscibe.org%2Fcolophon.html" rel="noopener">Facebook</a> · <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fscibe.org%2Fcolophon.html" rel="noopener">LinkedIn</a> · <a href="mailto:?subject=Colophon%20%E2%80%94%20My%20Name%20is%20Scibe&amp;body=https%3A%2F%2Fscibe.org%2Fcolophon.html" rel="noopener">email</a></p>
 
 <footer>
   <p>© 1994 Judy Malloy, Tom Igoe, Chris Abraham, Tim Collins, Anna Couey, Valerie Gardiner, Joseph Wilson, Doug Cohen</p>

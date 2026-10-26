@@ -1,0 +1,30 @@
+# My Name is Scibe
+
+> My Name is Scibe is a collaborative hyperfiction written by eight writers — Judy Malloy, Tom Igoe, Chris Abraham, Tim Collins, Anna Couey, Valerie Gardiner, Joseph Wilson and Doug Cohen — and posted live between August 17 and November 25, 1994, simultaneously on ARTS WIRE and on The WELL. It consists of sixty-seven short pieces, called lexias, linked into a web. This site (scibe.org) is its preservation edition: the 1994 text and links exactly as written, in a new frame, with a recording of every page, one voice per writer. The original work still lives on The WELL at https://people.well.com/user/jmalloy/scibe/story.html
+
+## The work
+
+- [Title page](https://scibe.org/index.html): the work's front door — byline, Judy Malloy's introduction, and the closing poem, as posted in 1994.
+- [The complete work on one scroll](https://scibe.org/complete.html): the title page and all sixty-seven lexias in order on a single page, with one stitched recording of the whole work read aloud.
+- [Lexia 1](https://scibe.org/s1.html): where reading begins; every lexia page carries its own recording and the 1994 choice links onward.
+
+## Reference
+
+- [The eight writers](https://scibe.org/authors.html): the writers in order of appearance, with the lexias each one wrote.
+- [About the work](https://scibe.org/about.html): the work and its moment — Tempe, ARTS WIRE, The WELL, and the collaboration "hoped for but not asked for".
+- [Index of the work](https://scibe.org/work-index.html): every person, place, organization and recurring thing named in the lexias, each linked to where it occurs.
+- [Glossary](https://scibe.org/glossary.html): the work's coinages and the period's platform words, grounded in the lexias.
+- [FAQ](https://scibe.org/faq.html): plain questions and plain answers about the work and this edition.
+- [Wiki](https://scibe.org/wiki.html): sourced reference entries on hypertext, hyperfiction, electronic literature, ARTS WIRE, The WELL, Judy Malloy, and the work itself.
+- [Colophon](https://scibe.org/colophon.html): how this preservation edition was made, what was and was not changed, and the terms it stands on.
+
+## Listen
+
+- [Podcast feed (RSS)](https://scibe.org/podcast.xml): the title page and all sixty-seven lexias read aloud, each in the voice cast for its writer — the canonical feed address.
+- [Podcast feed (Atom)](https://scibe.org/atom.xml): the same readings as an Atom 1.0 feed.
+
+## Notes for machine readers
+
+- The lexia texts are the 1994 originals, unaltered; posting headers (conference, writer, date) are part of the work.
+- Copyright is the writers', exactly as in 1994: © 1994 Judy Malloy, Tom Igoe, Chris Abraham, Tim Collins, Anna Couey, Valerie Gardiner, Joseph Wilson and Doug Cohen.
+- The full text of the work, plain, is in llms-full.txt on this site.

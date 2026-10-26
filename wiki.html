@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="index, follow">
 <title>The wiki — the world Scibe came from — My Name is Scibe</title>
 <meta name="description" content="The wiki of the Scibe preservation edition: sourced reference entries on hypertext, hyperfiction, electronic literature, ARTS WIRE, The WELL, The Meta Network, Metasystems Design Group, Judy Malloy, the writers, and the work itself.">
 <link rel="canonical" href="https://scibe.org/wiki.html">
@@ -20,105 +21,145 @@
 <meta name="twitter:image" content="https://scibe.org/og-card.png">
 <link rel="stylesheet" href="style.css">
 <link rel="alternate" type="application/rss+xml" title="My Name is Scibe — the readings" href="podcast.xml">
+<link rel="alternate" type="application/atom+xml" title="My Name is Scibe — the readings (Atom)" href="atom.xml">
 <script type="application/ld+json">
 {
  "@context": "https://schema.org",
- "@type": "ItemList",
- "name": "The Scibe wiki",
- "url": "https://scibe.org/wiki.html",
- "about": {
-  "@id": "https://scibe.org/#work"
- },
- "itemListElement": [
+ "@graph": [
   {
-   "@type": "ListItem",
-   "position": 1,
-   "item": {
-    "@type": "Article",
-    "name": "Scibe, the work",
-    "url": "https://scibe.org/wiki/scibe.html"
+   "@type": "WebSite",
+   "@id": "https://scibe.org/#website",
+   "url": "https://scibe.org/",
+   "name": "My Name is Scibe",
+   "alternateName": "Scibe",
+   "inLanguage": "en",
+   "about": {
+    "@id": "https://scibe.org/#work"
    }
   },
   {
-   "@type": "ListItem",
-   "position": 2,
-   "item": {
-    "@type": "Article",
-    "name": "Hypertext",
-    "url": "https://scibe.org/wiki/hypertext.html"
+   "@type": "CreativeWork",
+   "@id": "https://scibe.org/#edition",
+   "name": "My Name is Scibe — preservation edition",
+   "url": "https://scibe.org/",
+   "inLanguage": "en",
+   "datePublished": "2026-10-25",
+   "isBasedOn": "https://people.well.com/user/jmalloy/scibe/story.html"
+  },
+  {
+   "@type": "WebPage",
+   "@id": "https://scibe.org/wiki.html#webpage",
+   "url": "https://scibe.org/wiki.html",
+   "name": "The wiki — the world Scibe came from — My Name is Scibe",
+   "description": "The wiki of the Scibe preservation edition: sourced reference entries on hypertext, hyperfiction, electronic literature, ARTS WIRE, The WELL, The Meta Network, Metasystems Design Group, Judy Malloy, the writers, and the work itself.",
+   "inLanguage": "en",
+   "isPartOf": {
+    "@id": "https://scibe.org/#website"
+   },
+   "about": {
+    "@id": "https://scibe.org/#work"
    }
   },
   {
-   "@type": "ListItem",
-   "position": 3,
-   "item": {
-    "@type": "Article",
-    "name": "Hyperfiction",
-    "url": "https://scibe.org/wiki/hyperfiction.html"
-   }
-  },
-  {
-   "@type": "ListItem",
-   "position": 4,
-   "item": {
-    "@type": "Article",
-    "name": "Electronic literature",
-    "url": "https://scibe.org/wiki/electronic-literature.html"
-   }
-  },
-  {
-   "@type": "ListItem",
-   "position": 5,
-   "item": {
-    "@type": "Article",
-    "name": "ARTS WIRE",
-    "url": "https://scibe.org/wiki/arts-wire.html"
-   }
-  },
-  {
-   "@type": "ListItem",
-   "position": 6,
-   "item": {
-    "@type": "Article",
-    "name": "The WELL",
-    "url": "https://scibe.org/wiki/the-well.html"
-   }
-  },
-  {
-   "@type": "ListItem",
-   "position": 7,
-   "item": {
-    "@type": "Article",
-    "name": "TMN, The Meta Network",
-    "url": "https://scibe.org/wiki/tmn.html"
-   }
-  },
-  {
-   "@type": "ListItem",
-   "position": 8,
-   "item": {
-    "@type": "Article",
-    "name": "Metasystems Design Group",
-    "url": "https://scibe.org/wiki/metasystems-design-group.html"
-   }
-  },
-  {
-   "@type": "ListItem",
-   "position": 9,
-   "item": {
-    "@type": "Article",
-    "name": "Judy Malloy",
-    "url": "https://scibe.org/wiki/judy-malloy.html"
-   }
-  },
-  {
-   "@type": "ListItem",
-   "position": 10,
-   "item": {
-    "@type": "Article",
-    "name": "The writers",
-    "url": "https://scibe.org/wiki/the-writers.html"
-   }
+   "@type": "ItemList",
+   "name": "The Scibe wiki",
+   "url": "https://scibe.org/wiki.html",
+   "about": {
+    "@id": "https://scibe.org/#work"
+   },
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@type": "Article",
+      "name": "Scibe, the work",
+      "url": "https://scibe.org/wiki/scibe.html"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@type": "Article",
+      "name": "Hypertext",
+      "url": "https://scibe.org/wiki/hypertext.html"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "item": {
+      "@type": "Article",
+      "name": "Hyperfiction",
+      "url": "https://scibe.org/wiki/hyperfiction.html"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 4,
+     "item": {
+      "@type": "Article",
+      "name": "Electronic literature",
+      "url": "https://scibe.org/wiki/electronic-literature.html"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 5,
+     "item": {
+      "@type": "Article",
+      "name": "ARTS WIRE",
+      "url": "https://scibe.org/wiki/arts-wire.html"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 6,
+     "item": {
+      "@type": "Article",
+      "name": "The WELL",
+      "url": "https://scibe.org/wiki/the-well.html"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 7,
+     "item": {
+      "@type": "Article",
+      "name": "TMN, The Meta Network",
+      "url": "https://scibe.org/wiki/tmn.html"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 8,
+     "item": {
+      "@type": "Article",
+      "name": "Metasystems Design Group",
+      "url": "https://scibe.org/wiki/metasystems-design-group.html"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 9,
+     "item": {
+      "@type": "Article",
+      "name": "Judy Malloy",
+      "url": "https://scibe.org/wiki/judy-malloy.html"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 10,
+     "item": {
+      "@type": "Article",
+      "name": "The writers",
+      "url": "https://scibe.org/wiki/the-writers.html"
+     }
+    }
+   ],
+   "mainEntityOfPage": "https://scibe.org/wiki.html"
   }
  ]
 }
@@ -172,6 +213,7 @@
   </ul>
 </nav>
 </main>
+  <p class="share">share — <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fscibe.org%2Fwiki.html&amp;text=The%20wiki%20%E2%80%94%20the%20world%20Scibe%20came%20from%20%E2%80%94%20My%20Name%20is%20Scibe" rel="noopener">X</a> · <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fscibe.org%2Fwiki.html" rel="noopener">Facebook</a> · <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fscibe.org%2Fwiki.html" rel="noopener">LinkedIn</a> · <a href="mailto:?subject=The%20wiki%20%E2%80%94%20the%20world%20Scibe%20came%20from%20%E2%80%94%20My%20Name%20is%20Scibe&amp;body=https%3A%2F%2Fscibe.org%2Fwiki.html" rel="noopener">email</a></p>
 
 <footer>
   <p>© 1994 Judy Malloy, Tom Igoe, Chris Abraham, Tim Collins, Anna Couey, Valerie Gardiner, Joseph Wilson, Doug Cohen</p>

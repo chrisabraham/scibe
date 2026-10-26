@@ -216,6 +216,8 @@ main.story, footer.story { max-width: 80ch; }
 /* --- the complete page: contents strip + per-lexia headings ---------
    The scroll keeps the story measure; the headings are frame, set in
    the frame's dimmer ink so the 1994 headers keep their place. */
+.share { color: var(--ink-faint); font-size: 0.92rem; margin: 0 0 1rem; }
+.share a { color: var(--ink-dim); }
 .contents { color: var(--ink-dim); font-size: 0.98rem; margin: 0 0 2rem; }
 .contents .prompt { color: var(--ink-faint); }
 .contents a { padding: 0 0.1em; }
