@@ -1,4 +1,4 @@
-# My Name is Scibe — preservation edition.
+# My Name is Scibe -- preservation edition.
 # Opened to search engines Oct 25, 2026, by Chris Abraham's ruling
 # (the quiet-launch Disallow: / stood until then).
 User-agent: *

@@ -1,10 +1,10 @@
 # My Name is Scibe
 
-> My Name is Scibe is a collaborative hyperfiction conceived and begun by Judy Malloy and written by eight writers — Judy Malloy, Tom Igoe, Chris Abraham, Tim Collins, Anna Couey, Valerie Gardiner, Joseph Wilson and Doug Cohen — and posted live between August 17 and November 25, 1994, simultaneously on ARTS WIRE and on The WELL. It consists of sixty-seven short pieces, called lexias, linked into a web. This site (scibe.org) is its preservation edition: the 1994 text and links exactly as written, in a new frame, with a recording of every page, one voice per writer. The original work still lives on The WELL at https://people.well.com/user/jmalloy/scibe/story.html
+> My Name is Scibe is a collaborative hyperfiction conceived and begun by Judy Malloy and written by eight writers -- Judy Malloy, Tom Igoe, Chris Abraham, Tim Collins, Anna Couey, Valerie Gardiner, Joseph Wilson and Doug Cohen -- and posted live between August 17 and November 25, 1994, simultaneously on ARTS WIRE and on The WELL. It consists of sixty-seven short pieces, called lexias, linked into a web. This site (scibe.org) is its preservation edition: the 1994 text and links exactly as written, in a new frame, with a recording of every page, one voice per writer. The original work still lives on The WELL at https://people.well.com/user/jmalloy/scibe/story.html
 
 ## The work
 
-- [Title page](https://scibe.org/index.html): the work's front door — byline, Judy Malloy's introduction, and the closing poem, as posted in 1994.
+- [Title page](https://scibe.org/index.html): the work's front door -- byline, Judy Malloy's introduction, and the closing poem, as posted in 1994.
 - [The complete work on one scroll](https://scibe.org/complete.html): the title page and all sixty-seven lexias in order on a single page, with one stitched recording of the whole work read aloud.
 - [Lexia 1](https://scibe.org/s1.html): where reading begins; every lexia page carries its own recording and the 1994 choice links onward.
 - The descendant edition: [Item 8](https://item8.org/) at item8.org, opened in 1997 by Chris Abraham, one of Scibe's writers, to recreate this work.
@@ -12,18 +12,18 @@
 ## Reference
 
 - [The eight writers](https://scibe.org/authors.html): the writers in order of appearance, with the lexias each one wrote.
-- [About the work](https://scibe.org/about.html): the work and its moment — Tempe, ARTS WIRE, The WELL, and the collaboration "hoped for but not asked for".
+- [About the work](https://scibe.org/about.html): the work and its moment -- Tempe, ARTS WIRE, The WELL, and the collaboration "hoped for but not asked for".
 - [Index of the work](https://scibe.org/work-index.html): every person, place, organization and recurring thing named in the lexias, each linked to where it occurs.
 - [Glossary](https://scibe.org/glossary.html): the work's coinages and the period's platform words, grounded in the lexias.
 - [FAQ](https://scibe.org/faq.html): plain questions and plain answers about the work and this edition.
-- [Bibliography](https://scibe.org/bibliography.html): the edition's paper arranged by the work's fate — the WELL copy and its scholarship, the lost ARTS WIRE copy, the two rooms' machinery, the writers in their own words, testimony, and the neighbouring classroom's paper in an appendix — each entry tied to the pages that cite it.
-- [Acknowledgements](https://scibe.org/acknowledgements.html): the edition's debts, named from the record — to Judy Malloy, who originated and orchestrated the work, to her seven co-authors, to ARTS WIRE and The WELL, and to the village that kept the rooms.
-- [Wiki](https://scibe.org/wiki.html): fifteen sourced reference entries—the context layer—on online conferencing, Caucus, telnet and the web transition, ARTS WIRE, The WELL, The Meta Network, MDN, the village of hosts and makers, hypertext, and the work itself.
+- [Bibliography](https://scibe.org/bibliography.html): the edition's paper arranged by the work's fate -- the WELL copy and its scholarship, the lost ARTS WIRE copy, the two rooms' machinery, the writers in their own words, testimony, and the neighbouring classroom's paper in an appendix -- each entry tied to the pages that cite it.
+- [Acknowledgements](https://scibe.org/acknowledgements.html): the edition's debts, named from the record -- to Judy Malloy, who originated and orchestrated the work, to her seven co-authors, to ARTS WIRE and The WELL, and to the village that kept the rooms.
+- [Wiki](https://scibe.org/wiki.html): fifteen sourced reference entries--the context layer--on online conferencing, Caucus, telnet and the web transition, ARTS WIRE, The WELL, The Meta Network, MDN, the village of hosts and makers, hypertext, and the work itself.
 - [Colophon](https://scibe.org/colophon.html): how this preservation edition was made, what was and was not changed, and the terms it stands on.
 
 ## Listen
 
-- [Podcast feed (RSS)](https://scibe.org/podcast.xml): the title page and all sixty-seven lexias read aloud, each in the voice cast for its writer — the canonical feed address.
+- [Podcast feed (RSS)](https://scibe.org/podcast.xml): the title page and all sixty-seven lexias read aloud, each in the voice cast for its writer -- the canonical feed address.
 - [Podcast feed (Atom)](https://scibe.org/atom.xml): the same readings as an Atom 1.0 feed.
 
 ## Notes for machine readers
