@@ -212,3 +212,14 @@ main.story, footer.story { max-width: 80ch; }
    legibility limit; below it, lines wrap (above). Desktop is
    untouched: the clamp caps at the body size, 1.125rem. */
 .lexia { font-size: clamp(7px, calc((100vw - 2rem) / 48.5), 1.125rem); }
+
+/* --- the complete page: contents strip + per-lexia headings ---------
+   The scroll keeps the story measure; the headings are frame, set in
+   the frame's dimmer ink so the 1994 headers keep their place. */
+.contents { color: var(--ink-dim); font-size: 0.98rem; margin: 0 0 2rem; }
+.contents .prompt { color: var(--ink-faint); }
+.contents a { padding: 0 0.1em; }
+.lexia-head {
+  font-size: 1.05rem; letter-spacing: 0.04em; font-weight: 700;
+  color: var(--ink-dim); margin: 2.5rem 0 1rem;
+}
